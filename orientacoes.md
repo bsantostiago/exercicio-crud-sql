@@ -12,12 +12,14 @@ Usando o banco de dados do exercício anterior e as tabelas de clientes e contas
 	- 1 cliente pessoa física deve ter conta do tipo poupança.
 	- 2 clientes pessoa jurídica devem ter conta do tipo corrente
 	
-4. Faça 1 consulta SQL que traga os dados dos clientes que são pessoa física ordernados pelo nome.
+4. Faça 1 consulta que traga os dados dos clientes que são pessoa física ordernados pelo nome.
 
-5. Faça 1 consulta SQL que traga os dados dos clientes que são pessoa jurídica ordernados pelo nome.
+5. Faça 1 consulta que traga os dados dos clientes que são pessoa jurídica ordernados pelo nome.
 
-6. Faça 1 consulta SQL que traga o nome, tipo e e-mail dos clientes junto com a informação de qual tipo de conta possuem ordenados pelo tipo de conta em ordem decrescente.
+6. Faça 1 consulta que traga o nome, tipo e e-mail dos clientes junto com a informação de qual tipo de conta possuem ordenados pelo tipo de conta em ordem decrescente.
 
-7. Altere o e-mail de somente um cliente.
+7. Faça um backup do seu banco de dados.
 
-8. Apague um dos clientes que é pessoa jurídica.
+8. Altere o e-mail de somente um cliente.
+
+9. Apague um dos clientes que é pessoa jurídica.
